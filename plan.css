@@ -181,11 +181,3 @@ html {
         max-width: 90%;
     }
 }
-.dark-mode {
-  background-color: #121212;
-  color: white;
-}
-
-.dark-mode .card {
-  background-color: #1e1e1e;
-}
